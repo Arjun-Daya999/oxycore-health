@@ -136,8 +136,8 @@ export default function Home() {
           <div className="about-visual-main">
             <div className="chamber-art-img-wrap" style={{width: '100%', height: '100%', overflow: 'hidden', borderRadius: '4px', backgroundColor: 'var(--dark)'}}>
               <img 
-                src="/oxygen_bubbles.png" 
-                alt="Abstract Oxygen Flow Concept" 
+                src="/carousel_f420_exp.jpg" 
+                alt="Fortius420 Hyperbaric Chamber" 
                 style={{width: '100%', height: '100%', objectFit: 'cover', opacity: 0.95}} 
               />
             </div>
@@ -285,7 +285,7 @@ export default function Home() {
             <div className="pricing-tier">
               <div className="pt-header">
                 <div className="pt-title">Single Session</div>
-                <div className="pt-price">$XXX</div>
+                <div className="pt-price">Contact for Details</div>
               </div>
               <div className="pt-time">60–90 Minutes</div>
               <p className="pt-desc">Perfect for acute recovery (like a hangover, intense workout, or jet lag) and getting familiar with the chamber.</p>
@@ -293,7 +293,7 @@ export default function Home() {
             <div className="pricing-tier">
               <div className="pt-header">
                 <div className="pt-title">Wellness Package</div>
-                <div className="pt-price">$X,XXX</div>
+                <div className="pt-price">Contact for Details</div>
               </div>
               <div className="pt-time">10 Sessions • 60–90 Min</div>
               <p className="pt-desc">Designed for sustained athletic recovery, anti-aging benefits, and systemic inflammation reduction.</p>
@@ -301,7 +301,7 @@ export default function Home() {
             <div className="pricing-tier">
               <div className="pt-header">
                 <div className="pt-title">Clinical Protocol</div>
-                <div className="pt-price">$X,XXX</div>
+                <div className="pt-price">Contact for Details</div>
               </div>
               <div className="pt-time">40 Sessions • 60–90 Min</div>
               <p className="pt-desc">The gold standard for deep tissue healing, post-surgical recovery, TBI, and long-term neurological repair.</p>

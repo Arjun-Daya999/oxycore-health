@@ -739,6 +739,8 @@
       justify-content: space-between;
       align-items: center;
       margin-bottom: 0.25rem;
+      gap: 1rem;
+      flex-wrap: wrap;
     }
     .pt-title {
       font-family: 'Cormorant Garamond', serif;
@@ -746,9 +748,11 @@
       color: var(--white);
     }
     .pt-price {
-      font-size: 1.1rem;
-      font-weight: 600;
+      font-size: 0.9rem;
+      font-weight: 500;
+      letter-spacing: 0.05em;
       color: var(--gold-light);
+      text-transform: uppercase;
     }
     .pt-time {
       font-size: 0.68rem;
