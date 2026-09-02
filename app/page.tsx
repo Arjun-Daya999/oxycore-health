@@ -136,8 +136,8 @@ export default function Home() {
           <div className="about-visual-main">
             <div className="chamber-art-img-wrap" style={{width: '100%', height: '100%', overflow: 'hidden', borderRadius: '4px', backgroundColor: 'var(--dark)'}}>
               <img 
-                src="/carousel_f420_exp.jpg" 
-                alt="Fortius420 Hyperbaric Chamber" 
+                src="/oxygen_bubbles.png" 
+                alt="Abstract Oxygen Flow Concept" 
                 style={{width: '100%', height: '100%', objectFit: 'cover', opacity: 0.95}} 
               />
             </div>
